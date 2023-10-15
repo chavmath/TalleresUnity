@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 989
   m_ShowMode: 4
-  m_Title: Game
+  m_Title: Hierarchy
   m_RootView: {fileID: 2}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -384,9 +384,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: eab30000
-      m_LastClickedID: 46058
-      m_ExpandedIDs: 90fbfeff
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: 980fffff4610ffff32fbffffe45f0000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -714,9 +714,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 15.976074, y: -2.1397467, z: 5.2908916}
+    m_Target: {x: -2.7981186, y: -9.008405, z: 31.739048}
     speed: 2
-    m_Value: {x: 15.976074, y: -2.1397467, z: 5.2908916}
+    m_Value: {x: -2.7981186, y: -9.008405, z: 31.739048}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -762,13 +762,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.07754205, y: 0.42421383, z: -0.03650751, w: 0.90153503}
+    m_Target: {x: 0.16302714, y: 0.027252357, z: -0.0045118034, w: 0.98632956}
     speed: 2
-    m_Value: {x: 0.0775394, y: 0.4241993, z: -0.03650626, w: 0.9015042}
+    m_Value: {x: 0.16153237, y: 0.027256548, z: -0.0044704867, w: 0.9864808}
   m_Size:
-    m_Target: 14.558959
+    m_Target: 21.444967
     speed: 2
-    m_Value: 14.558959
+    m_Value: 21.444967
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -938,7 +938,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/HighQualityBricks&Walls/Materials
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -946,16 +946,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 65
   m_LastFolders:
-  - Assets
+  - Assets/HighQualityBricks&Walls/Materials
   m_LastFoldersGridSize: 65
   m_LastProjectPath: C:\Users\mathe\Documents\Unity\Movement&Animation
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 31}
-    m_SelectedIDs: f4050000
-    m_LastClickedID: 1524
-    m_ExpandedIDs: 00000000a0060000e40600009807000038080000e80a0000940b0000080c0000700d0000c40d0000dc0d0000ffffff7f
+    scrollPos: {x: 0, y: 403}
+    m_SelectedIDs: 5c5c0000
+    m_LastClickedID: 23644
+    m_ExpandedIDs: 00000000125c0000145c0000165c0000185c00001a5c00001c5c00001e5c0000205c0000225c0000245c00002e5c0000545c0000585c00006c5c0000785c0000ffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -983,7 +983,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000a0060000e40600009807000038080000e80a0000940b0000080c0000700d0000c40d0000dc0d0000
+    m_ExpandedIDs: 00000000125c0000145c0000165c0000185c00001a5c00001c5c00001e5c0000205c0000225c0000245c0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
